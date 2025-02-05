@@ -2,20 +2,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap");
 
-/* .lexend-deca-<uniquifier > {
-  font-family: "Lexend Deca", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-} */
-
-/* .inter-<uniquifier > {
-  font-family: "Inter", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-} */
-
 *,
 *::after,
 *::before {
@@ -66,7 +52,7 @@ body {
 }
 
 .container {
-  width: 350px;
+  max-width: 375px;
   background-color: hsl(244, 38%, 16%);
   color: hsl(0, 0%, 100%);
   margin: 50px auto;
@@ -136,10 +122,21 @@ p {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+/* @media screen and (min-width: 1000px) {
+  .container {
+    display: flex !important;
+    flex-direction: row;
+  }
+} */
+
 .attribution {
   font-size: 11px;
   text-align: center;
+  color: hsla(0, 0%, 100%, 0.5);
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(277, 64%, 61%);
+  text-decoration: none;
+  font-family: cursive;
 }
