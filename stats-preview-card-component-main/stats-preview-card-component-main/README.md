@@ -29,7 +29,6 @@ Users should be able to:
 ### Screenshot
 
 ![Deskop design](/stats-preview-card-component-main/design/desktop-design.jpg)
-![Mobile design](/stats-preview-card-component-main/design/mobile-design.jpg)
 
 ### Links
 
