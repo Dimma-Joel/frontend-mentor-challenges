@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Deskop design](/stats-preview-card-component-main/design/desktop-design.jpg)
+![Deskop design](/stats-preview-card-component-main/images/stats%20preview.jpg)
 
 ### Links
 
