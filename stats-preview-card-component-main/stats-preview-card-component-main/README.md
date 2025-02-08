@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Glad to finally round up the stats preview card component. In this Readme, I've compiled in writing every thing I did to build the project like my build process and useful resources. Have a nice read!
 
 ## Table of contents
 
@@ -56,21 +56,17 @@ Users should be able to:
 ### What I learned
 
 - I've always understood the concept of responsive designs using media queries but I understood it better by applying it in the project.
-
 - How to use max and min widths
-
 - Modern CSS resets
 
 ### Continued development
 
 - Media queries
-
 - Responsive designs
 
 ### Useful resources
 
 - [Modern CSS reset by John Comeau](https://www.joshwcomeau.com/css/custom-css-reset/) - This helped me to learn new CSS resets. I really liked this pattern and will use it going forward.
-
 - [Media Queries by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - This is an amazing article which helped me finally understand media queries. I'd recommend it to anyone still learning this concept.
 
 ## Author
