@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-[](/design/desktop-design.jpg)
+![Stats preview card component](/images/stats%20preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Dimma-Joel/frontend-mentor-challenges/tree/main/stats-preview-card-component-main/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-challenges-6nz6.vercel.app/)
+- [Add live site URL here](https://frontend-mentor-challenges-6nz6.vercel.app/)
+- [Frontend Mentor Solution Page](https://github.com/Dimma-Joel/frontend-mentor-challenges/tree/main/stats-preview-card-component-main/stats-preview-card-component-main)
 
 ## My process
 
