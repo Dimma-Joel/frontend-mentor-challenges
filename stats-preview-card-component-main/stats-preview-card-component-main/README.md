@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/stats-preview-card-component-main/images/stats%20preview.jpg)
+![](/design/desktop-design.jpg)
 
 ### Links
 
