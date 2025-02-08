@@ -18,8 +18,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-Stats Preview Card Component
-
 ### The challenge
 
 Users should be able to:
@@ -28,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/design/desktop-design.jpg)
+[](/design/desktop-design.jpg)
 
 ### Links
 
