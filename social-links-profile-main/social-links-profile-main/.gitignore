@@ -1,16 +1,26 @@
-# Avoid accidental upload of the Sketch and Figma design files
+# Avoid accidental upload of Sketch, Figma, and Adobe XD design files
 #####################################################
 ## Please do not remove lines 5 and 6 - thanks! 🙂 ##
 #####################################################
 *.sketch
 *.fig
 
-# Avoid accidental XD upload if you convert the design file
 ###############################################
 ## Please do not remove line 12 - thanks! 🙂 ##
 ###############################################
 *.xd
 
-# Avoid your project being littered with annoying .DS_Store files!
+# Avoid Mac system files
 .DS_Store
+
+# Node modules and lock files
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Output CSS file
+output.css
+
+# Prettier ignore file (Optional, remove if needed)
 .prettierignore
