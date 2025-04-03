@@ -123,6 +123,7 @@ p {
 .attribution {
   font-size: 10px;
   margin: 0 auto;
+  text-align: center;
   color: hsl(31, 77%, 52%);
 }
 .attribution a {
