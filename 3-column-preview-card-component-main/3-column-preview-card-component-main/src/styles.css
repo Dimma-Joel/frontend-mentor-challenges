@@ -152,4 +152,8 @@ p {
   p {
     padding-bottom: 50px;
   }
+
+  .third-section p {
+    width: 66%;
+  }
 }
