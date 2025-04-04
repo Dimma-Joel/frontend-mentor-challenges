@@ -131,7 +131,7 @@ p {
   text-decoration: none;
 }
 
-@media (max-width: 1440px) {
+@media (min-width: 760px) {
   main {
     display: flex;
     width: 67%;
