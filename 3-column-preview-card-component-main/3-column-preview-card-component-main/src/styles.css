@@ -146,7 +146,7 @@ p {
 @media (min-width: 760px) {
   main {
     display: flex;
-    max-width: 67%;
+    max-width: 70%;
     margin: 5% auto;
   }
 
@@ -171,7 +171,7 @@ p {
   }
 
   .second-section p {
-    width: 70%;
+    width: 73%;
   }
 
   .third-section p {
