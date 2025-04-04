@@ -120,6 +120,18 @@ p {
   border-radius: 50px;
 }
 
+.first-section p {
+  width: 78%;
+}
+
+.second-section p {
+  width: 75%;
+}
+
+.third-section p {
+  width: 68%;
+}
+
 .attribution {
   font-size: 10px;
   margin: 0 auto;
@@ -134,7 +146,7 @@ p {
 @media (min-width: 760px) {
   main {
     display: flex;
-    width: 67%;
+    max-width: 67%;
     margin: 5% auto;
   }
 
@@ -150,10 +162,19 @@ p {
   }
 
   p {
-    padding-bottom: 50px;
+    padding-bottom: 80px;
+    font-size: 14px;
+  }
+
+  .first-section p {
+    width: 70%;
+  }
+
+  .second-section p {
+    width: 70%;
   }
 
   .third-section p {
-    width: 66%;
+    width: 80%;
   }
 }
