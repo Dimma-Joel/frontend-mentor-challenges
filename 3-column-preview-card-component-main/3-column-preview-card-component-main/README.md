@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Live Site](https://your-solution-url.com)
-- [Frontend Mentor Solution Page](https://your-live-site-url.com)
+- [Live Site](https://frontend-mentor-challenges-y3cf.vercel.app/)
+- [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/3-column-preview-card-component-d7iC5ub4sl)
 
 ## My process
 
