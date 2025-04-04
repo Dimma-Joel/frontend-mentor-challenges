@@ -120,6 +120,27 @@ p {
   border-radius: 50px;
 }
 
+.first-button:active {
+  font-size: 14px;
+  border: 2px solid hsl(0, 0%, 95%);
+  background-color: hsl(31, 77%, 52%);
+  color: hsl(0, 0%, 95%);
+}
+
+.second-button:active {
+  font-size: 14px;
+  border: 2px solid hsl(0, 0%, 95%);
+  background-color: hsl(184, 100%, 22%);
+  color: hsl(0, 0%, 95%);
+}
+
+.third-button:active {
+  font-size: 14px;
+  border: 2px solid hsl(0, 0%, 95%);
+  background-color: hsl(179, 100%, 13%);
+  color: hsl(0, 0%, 95%);
+}
+
 .first-section p {
   width: 78%;
 }
@@ -176,6 +197,27 @@ p {
 
   .third-section p {
     width: 80%;
+  }
+
+  .first-button:active {
+    font-size: 14px;
+    border: 2px solid hsl(0, 0%, 95%);
+    background-color: hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+  }
+
+  .second-button:active {
+    font-size: 14px;
+    border: 2px solid hsl(0, 0%, 95%);
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+  }
+
+  .third-button:active {
+    font-size: 14px;
+    border: 2px solid hsl(0, 0%, 95%);
+    background-color: hsl(179, 100%, 13%);
+    color: hsl(0, 0%, 95%);
   }
 
   .attribution {
