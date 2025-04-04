@@ -177,4 +177,8 @@ p {
   .third-section p {
     width: 80%;
   }
+
+  .attribution {
+    font-size: 13px;
+  }
 }
