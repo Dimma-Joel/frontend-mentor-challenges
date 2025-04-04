@@ -130,3 +130,26 @@ p {
   color: hsl(179, 100%, 13%);
   text-decoration: none;
 }
+
+@media (max-width: 1440px) {
+  main {
+    display: flex;
+    width: 67%;
+    margin: 5% auto;
+  }
+
+  .first-section {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 0;
+  }
+
+  .third-section {
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0;
+  }
+
+  p {
+    padding-bottom: 50px;
+  }
+}
