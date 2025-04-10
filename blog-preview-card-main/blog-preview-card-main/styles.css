@@ -49,7 +49,7 @@ body {
 
 main {
   width: 375px;
-  margin: 100px auto;
+  margin: 150px auto;
   background-color: hsl(0, 0%, 100%);
   padding: 25px;
   box-shadow: 10px 10px;
@@ -89,7 +89,9 @@ main {
 .explanation {
   color: hsl(0, 0%, 42%);
   font-weight: 500;
-  margin-bottom: 25px;
+  font-size: 15px;
+
+  margin-bottom: 26px;
 }
 
 .author {
@@ -108,9 +110,12 @@ main {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 12px;
   text-align: center;
+  margin-top: -70px;
+  margin-bottom: 50px;
 }
 .attribution a {
+  text-decoration: none;
   color: hsl(228, 45%, 44%);
 }
