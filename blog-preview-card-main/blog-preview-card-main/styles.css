@@ -48,7 +48,7 @@ body {
 }
 
 main {
-  width: 375px;
+  width: 320px;
   margin: 150px auto;
   background-color: hsl(0, 0%, 100%);
   padding: 25px;
@@ -89,9 +89,9 @@ main {
 .explanation {
   color: hsl(0, 0%, 42%);
   font-weight: 500;
-  font-size: 15px;
+  font-size: 14px;
 
-  margin-bottom: 26px;
+  margin-bottom: 27px;
 }
 
 .author {
