@@ -52,49 +52,79 @@ body {
   width: 90%;
   margin: 30% auto;
   background-color: hsl(216, 50%, 16%);
-  padding: 30px;
-  border-radius: 15px;
+  padding: 27px;
+  border-radius: 14px;
 }
 
 .equilibrium-image {
   width: 100%;
-  border-radius: 10px;
+  border-radius: 9px;
 }
+
 .equilibrium-number {
-  margin: 20px 0 20px 0;
+  margin: 20px 0 18px 0;
   color: hsl(0, 0%, 100%);
+  font-size: 23px;
+}
+
+.equilibrium-number:active {
+  color: hsl(178, 100%, 50%);
 }
 
 .equilibrium-work {
   margin-bottom: 20px;
-  /* font-size: 18px; */
 }
 
 .ethereum-details-container {
   display: flex;
-}
-
-/* .ethereum-details {
-  display: flex;
-} */
-
-/* .ethereum-details-container {
-  display: flex;
-  margin-bottom: 50px;
   justify-content: space-between;
+  margin-bottom: 16px;
 }
 
 .ethereum-details {
   display: flex;
-  width: 40%;
   gap: 8px;
-  font-size: 15px;
-} */
+}
+
+.eth-price {
+  color: hsl(178, 100%, 50%);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: hsl(215, 32%, 27%);
+  margin-bottom: 20px;
+}
+
+.avatar-details {
+  gap: 15px;
+}
+
+.avatar-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid hsl(0, 0%, 100%);
+}
+.avatar-creation {
+  align-content: center;
+}
+.avatar-name {
+  color: hsl(0, 0%, 100%);
+}
+
+.avatar-name:active {
+  color: hsl(178, 100%, 50%);
+}
 
 .attribution {
-  font-size: 11px;
+  font-size: 12px;
   text-align: center;
+  margin-bottom: 12px;
+  color: hsl(228, 45%, 44%);
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(215, 51%, 70%);
+  text-decoration: none;
 }
