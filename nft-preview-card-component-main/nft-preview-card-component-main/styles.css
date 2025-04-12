@@ -1,3 +1,96 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+* {
+  line-height: 1.5;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+body {
+  background-color: hsl(217, 54%, 11%);
+  color: hsl(215, 51%, 70%);
+  font-family: "Outfit", sans-serif;
+}
+
+.container {
+  width: 90%;
+  margin: 30% auto;
+  background-color: hsl(216, 50%, 16%);
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.equilibrium-image {
+  width: 100%;
+  border-radius: 10px;
+}
+.equilibrium-number {
+  margin: 20px 0 20px 0;
+  color: hsl(0, 0%, 100%);
+}
+
+.equilibrium-work {
+  margin-bottom: 20px;
+  /* font-size: 18px; */
+}
+
+.ethereum-details-container {
+  display: flex;
+}
+
+/* .ethereum-details {
+  display: flex;
+} */
+
+/* .ethereum-details-container {
+  display: flex;
+  margin-bottom: 50px;
+  justify-content: space-between;
+}
+
+.ethereum-details {
+  display: flex;
+  width: 40%;
+  gap: 8px;
+  font-size: 15px;
+} */
+
 .attribution {
   font-size: 11px;
   text-align: center;

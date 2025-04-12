@@ -11,41 +11,59 @@
     />
     <title>Frontend Mentor | NFT preview card component</title>
     <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
   </head>
 
   <body>
-    <img
-      src="images/image-equilibrium.jpg"
-      alt="Equilibrium Image"
-      width="604px"
-      height="604px"
-    />
-    <h2>Equilibrium #3429</h2>
-    <p>Our Equilibrium collection promotes balance and calm.</p>
+    <main class="container">
+      <img
+        src="images/image-equilibrium.jpg"
+        alt="Equilibrium Image"
+        class="equilibrium-image"
+      />
+      <h2 class="equilibrium-number">Equilibrium #3429</h2>
+      <p class="equilibrium-work">
+        Our Equilibrium collection promotes balance and calm.
+      </p>
 
-    <section>
-      <img src="images/icon-ethereum.svg" alt="Ethereum Icon" /><span
-        >0.041 ETH</span
-      >
-    </section>
+      <article class="ethereum-details-container">
+        <section class="ethereum-details">
+          <img src="images/icon-ethereum.svg" alt="Ethereum Icon" /><span
+            >0.041 ETH</span
+          >
+        </section>
 
-    <section>
-      <img src="images/icon-clock.svg" alt="Clock" />
-      <span>3 days left</span>
-    </section>
+        <section class="ethereum-details">
+          <img src="images/icon-clock.svg" alt="Clock" />
+          <span>3 days left</span>
+        </section>
+      </article>
 
-    <hr />
+      <hr />
 
-    <section>
-      <img src="images/image-avatar.png" alt="Avatar" />
-      <span>Creation of Jules Wyvern</span>
-    </section>
+      <section>
+        <img src="images/image-avatar.png" alt="Avatar" />
+        <span>Creation of Jules Wyvern</span>
+      </section>
+    </main>
 
-    <div class="attribution">
-      Challenge by
-      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-        >Frontend Mentor</a
-      >. Coded by <a href="#">Your Name Here</a>.
-    </div>
+    <footer>
+      <p class="attribution">
+        Challenge by
+        <a
+          href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U"
+          target="_blank"
+          >Frontend Mentor</a
+        >. Coded by
+        <a href="https://portfolio-website-six-bice-55.vercel.app/"
+          >Dimma Joel</a
+        >.
+      </p>
+    </footer>
   </body>
 </html>
