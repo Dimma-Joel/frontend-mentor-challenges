@@ -142,15 +142,24 @@ hr {
 }
 
 @media (min-width: 768px) {
+  body {
+    background-image: url("/images/bg-pattern-top.svg"),
+      url("/images/bg-pattern-bottom.svg");
+    background-position: -200px -370px, 750px 300px;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 800px, 700px;
+  }
   .container {
     width: 25%;
-    margin: 5% auto;
+    margin: 7% auto;
   }
 
   .attribution {
     font-size: 11px;
     text-align: center;
     color: hsl(229, 23%, 23%);
+    margin-top: -50px;
+    margin-bottom: -200px;
   }
 
   .attribution a {
