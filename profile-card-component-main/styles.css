@@ -73,10 +73,10 @@ body {
 
 .second-image {
   margin: 0 auto;
-  display: inline-;
+  display: inline;
   border-radius: 50%;
   margin-top: -50px;
-  border: 10px solid white;
+  border: 6px solid white;
 }
 
 .address {
@@ -105,7 +105,8 @@ body {
 
 hr {
   border: none;
-  border-top: 1px solid hsl(0, 0%, 59%);
+  height: 1px;
+  background: #dddddd;
 }
 
 .socials-status {
@@ -130,8 +131,8 @@ hr {
 .attribution {
   font-size: 11px;
   text-align: center;
-  margin-top: -40px;
-  margin-bottom: 30px;
+  margin-top: -30px;
+  margin-bottom: 20px;
   color: hsl(229, 23%, 23%);
 }
 
