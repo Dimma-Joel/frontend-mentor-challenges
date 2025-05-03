@@ -140,3 +140,21 @@ hr {
   color: white;
   font-size: 13px;
 }
+
+@media (min-width: 768px) {
+  .container {
+    width: 25%;
+    margin: 5% auto;
+  }
+
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(229, 23%, 23%);
+  }
+
+  .attribution a {
+    color: white;
+    font-size: 13px;
+  }
+}
